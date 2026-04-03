@@ -1,5 +1,9 @@
-Repositório do Projeto de Inteligência Artificial
+Repositório de Projetos de Inteligência Artificial
 ---
-Bem-vindo ao repositório de Onboarding no mundo da Gestão de Projetos de IA!
+Bem-vindo ao repositório de onboarding em Gestão de Projetos de Inteligência Artificial.
 
-Este repositório reúne os manuais, materiais de apoio e atividades de ambientação para novos interessados que atuam nos projetos de Inteligência Artificial. O objetivo é facilitar sua integração e garantir que você tenha o suporte necessário para iniciar sua jornada.
+Este repositório consolida manuais, materiais de apoio e atividades introdutórias, com o objetivo de orientar e acelerar a integração de profissionais envolvidos em iniciativas de IA.
+
+Contemplamos recursos estruturados para apoiar sua jornada desde os fundamentos até a aplicação prática em projetos, garantindo alinhamento metodológico, eficiência na execução e compreensão das principais etapas do ciclo de desenvolvimento de soluções baseadas em Inteligência Artificial.
+
+Nosso propósito é oferecer um ambiente organizado e acessível, que facilite o aprendizado, promova boas práticas e contribua para o desenvolvimento de projetos consistentes e de alto impacto.
